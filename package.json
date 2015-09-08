@@ -2,6 +2,7 @@
   "name": "backbone.dirty-sync",
   "version": "1.0.0",
   "description": "Overrides the Backbone.sync method with an abstraction, that only updates the dirty attributes in Models and Collections.",
+  "homepage": "https://github.com/ChiefORZ/backbone.dirty-sync",
   "main": "backbone.dirty-sync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
